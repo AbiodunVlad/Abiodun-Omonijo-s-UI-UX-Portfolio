@@ -1,0 +1,482 @@
+body {
+    margin: 0 0px 0 0px;
+    background-color: #333333;
+}
+
+#navbar {
+    background-color: #333333;
+    height: 50px;
+    position: relative;
+    padding: 0.5px 0 0 0;
+}
+
+#go {
+    text-decoration: none;
+    margin: -8px 0 0 1080px;
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    background-color: blue;
+    border-radius: 20px;
+    width: 150px;
+    height: 30px;
+}
+
+.container {
+    display: flex;
+    margin: 0 100px 0 100px;
+    /*background-color: rgb(244, 248, 3);*/
+}
+
+#home {
+    background-color: #444444;
+    padding: 0 0 20px 0;
+}
+
+#profile-image {
+    border-radius: 200px;
+    height: 250px;
+    width: 250px;
+    margin: 10px 0px 0 0px;
+   
+}
+
+.h1 {
+    margin: 50px 0 100px 150px;
+    height: 150px;
+    width: 500px;
+    font-size: 45px;
+    background: linear-gradient(to right, #B95C5C, #AA6F7E, #9BA4CA, #B0C3E2);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    /*text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);*/
+}
+
+#h5 {
+    margin: 0 0 0 500px;
+    font-size: 35px;
+    background: linear-gradient(to right, #B95C5C, #9BA4CA, #B0C3E2);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+.para {
+    margin: 10px 120px 0px 500px;
+    text-align: justify;
+}
+
+p {
+    margin: 10px 0px 20px 200px;
+    color: rgb(255, 255, 255);
+    /*text-align: justify;*/
+}
+
+.href {
+    color:rgba(0, 225, 255, 0.61);
+    text-decoration: none;
+}
+
+.ikarely {
+    color: white;
+    font-size: 30px;
+    margin: 0 0 0 0;
+}
+
+.logo {
+    height: 250px;
+    width: 200px;
+}
+
+.logo2 {
+    height: 300px;
+    width: 170px;
+}
+
+.h5 {
+    font-size: 30px;
+    margin: 0 0 0 200px;
+}
+
+.mag {
+    margin-top: 50px;
+    
+}
+
+.work-page1 {
+    width: 330px;
+    height: 600px;
+    margin: 0 0px 0 0px;
+    
+}
+
+.work-page1b {
+    width: 300px;
+    height: 600px;
+    margin: 0 0px 0 0px;
+    
+}
+
+.work-page2 {
+    width: 330px;
+    height: 600px;
+    margin: 0 0px 0 65px;
+    
+}
+
+.work-page2b {
+    width: 300px;
+    height: 600px;
+    margin: 0 0px 0 65px;
+    
+}
+
+.work-page3 {
+    width: 330px;
+    height: 600px;
+    margin: 0 0px 0 65px;
+}
+
+.work-page3b {
+    width: 300px;
+    height: 600px;
+    margin: 0 0px 0 65px;
+}
+
+.work-page4 {
+    width: 350px;
+    height: 250px;
+    margin: 0 0px 0 0px;
+}
+
+.work-page5 {
+    width: 350px;
+    height: 250px;
+    margin: 0 0px 0 36px;
+    
+}
+
+.work-page6 {
+    width: 350px;
+    height: 250px;
+    margin: 0 0px 0 36px;
+    
+}
+
+.work-page7 {
+    width: 350px;
+    height: 250px;
+    margin: 0 0px 0 387px;
+    
+}
+
+.work-page8 {
+    width: 300px;
+    height: 250px;
+    margin: 0 0px 0 387px;
+    
+}
+
+.work-header1 {
+    color: white;
+    font-size: 15px;
+    margin: 40px 0 0 0;
+}
+
+.work-header2 {
+    
+    color: white;
+    font-size: 15px;
+    margin: 40px 0 0 65px;
+}
+
+.work-header3 {
+    
+    color: white;
+    font-size: 15px;
+    margin: 40px 0 0 65px;
+}
+
+.work-header5 {
+    
+    color: white;
+    font-size: 15px;
+    margin: 40px 0 0 37px;
+}
+
+.work-header6 {
+    
+    color: white;
+    font-size: 15px;
+    margin: 40px 0 0 40px;
+}
+
+.work-header7 {
+    
+    color: white;
+    font-size: 15px;
+    margin: 40px 0 0 387px;
+}
+
+.diffback {
+    background-color: #444444;
+    padding: 40px 0 40px 0;
+}
+
+.h2 {
+    color:rgb(255, 255, 255);
+    text-align: center;
+    font-size: 30px;
+}
+
+.h2b {
+    margin: 10px 0 0px 430px;
+    height: 150px;
+    width: 500px;
+    font-size: 30px;
+    text-align: center;
+    background: linear-gradient(to right, #B95C5C, #AA6F7E, #9BA4CA, #B0C3E2);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+.icons {
+    margin: 0px 0 100px 500px;
+    
+}
+
+.fab {
+    font-size: 50px;
+    color:  #0072b1;
+    margin: 0px 0 0px 50px;
+}
+
+.fab:hover {
+    color: black;
+}
+
+.fas {
+    font-size: 50px;
+    margin: 0px 0 0px 50px;
+}
+
+.fas:hover {
+    color: black;
+}
+
+.fa-phone-square-alt {
+    color:  #0072b1;
+}
+
+@media screen and (max-width: 768px) {
+    #go {
+        text-decoration: none;
+        margin: -8px 0 0 270px;
+        font-size: 13px;
+        color: rgb(255, 255, 255);
+        background-color: blue;
+        border-radius: 20px;
+        width: 120px;
+        height: 25px;
+    }
+
+    .container {
+        display: flex;
+        margin: 0 0px 0 30px;
+        /*background-color: rgb(244, 248, 3);*/
+    }
+
+    #profile-image {
+        border-radius: 300px;
+        height: 90px;
+        width: 90px;
+        margin: 10px 0px 0 0px;
+       
+    }
+
+    .h1 {
+        margin: 20px 0 50px 50px;
+        height: 150px;
+        width: 500px;
+        font-size: 23px;
+        background: linear-gradient(to right, #B95C5C, #AA6F7E, #9BA4CA, #B0C3E2);
+        -webkit-text-fill-color: transparent;
+        -webkit-background-clip: text;
+        /*text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);*/
+    }
+
+    #h5 {
+        margin: 0 0 0 166px;
+        font-size: 13px;
+        background: linear-gradient(to right, #B95C5C, #9BA4CA, #B0C3E2);
+        -webkit-text-fill-color: transparent;
+        -webkit-background-clip: text;
+    }
+
+    .h5 {
+        font-size: 20px;
+        margin: 0 0 0 50px;
+    }
+
+    .para {
+        margin: 10px 10px 0px 166px;
+        text-align: justify;
+    }
+
+    p {
+        margin: 10px 0px 20px 52px;
+        color: rgb(255, 255, 255);
+        /*text-align: justify;*/
+    }
+
+    .ikarely {
+        color: white;
+        font-size: 20px;
+        margin: 0 0 0 0;
+    }
+
+    .logo {
+        height: 166px;
+        width: 133px;
+    }
+
+    .logo2 {
+        height: 200px;
+        width: 113px;
+    }
+
+    .work-page1 {
+        width: 110px;
+        height: 200px;
+        margin: 0 0px 0 25px;
+        
+    }
+    
+    .work-page1b {
+        width: 100px;
+        height: 200px;
+        margin: 0 0px 0 40px;
+        
+    }
+    
+    .work-page2 {
+        width: 110px;
+        height: 200px;
+        margin: 0 0px 0 21px;
+        
+    }
+    
+    .work-page2b {
+        width: 100px;
+        height: 200px;
+        margin: 0 0px 0 21px;
+        
+    }
+    
+    .work-page3 {
+        width: 110px;
+        height: 200px;
+        margin: 0 0px 0 21px;
+    }
+    
+    .work-page3b {
+        width: 100px;
+        height: 200px;
+        margin: 0 0px 0 21px;
+    }
+    
+    .work-page4 {
+        width: 140px;
+        height: 83px;
+        margin: 0 0px 0 0px;
+    }
+    
+    .work-page5 {
+        width: 140px;
+        height: 83px;
+        margin: 0 0px 0 12px;
+        
+    }
+    
+    .work-page6 {
+        width: 140px;
+        height: 83px;
+        margin: 0 0px 0 12px;
+        
+    }
+    
+    .work-page7 {
+        width: 140px;
+        height: 83px;
+        margin: 0 0px 0 150px;
+        
+    }
+    
+    .work-page8 {
+        width: 140px;
+        height: 83px;
+        margin: 0 0px 0 120px;
+        
+    }
+
+    .work-header1 {
+        color: white;
+        font-size: 10px;
+        margin: 40px 0 0 25px;
+    }
+
+    .work-header1b {
+        color: white;
+        font-size: 10px;
+        margin: 40px 0 0 0px;
+    }
+    
+    .work-header2 {
+        
+        color: white;
+        font-size: 10px;
+        margin: 40px 0 0 21px;
+    }
+    
+    .work-header3 {
+        
+        color: white;
+        font-size: 10px;
+        margin: 40px 0 0 21px;
+    }
+    
+    .work-header5 {
+        
+        color: white;
+        font-size: 10px;
+        margin: 40px 0 0 12px;
+    }
+    
+    .work-header6 {
+        
+        color: white;
+        font-size: 10px;
+        margin: 40px 0 0 12px;
+    }
+    
+    .work-header7 {
+        
+        color: white;
+        font-size: 10px;
+        margin: 40px 0 0 150px;
+    }
+
+    .h2b {
+        margin: 0px 0 0px 0px;
+        height: 150px;
+        width: 500px;
+        font-size: 20px;
+        text-align: center;
+        background: linear-gradient(to right, #B95C5C, #AA6F7E, #9BA4CA, #B0C3E2);
+        -webkit-text-fill-color: transparent;
+        -webkit-background-clip: text;
+    }
+
+    .icons {
+        margin: 0px 0 100px 80px;
+        
+    }
+}
